@@ -136,7 +136,7 @@ namespace GeoWallE_Fabio_2k3
         {
             Random r = new Random();
             if (X.Equals(float.PositiveInfinity) && Y.Equals(float.PositiveInfinity))
-                point = new Point(r.Next(0, 900), r.Next(0, 570), name);
+                point = new Point(r.Next(0, 520), r.Next(0, 380), name);
             else
                 point = new Point(X, Y, name);
             return point;

@@ -1,0 +1,16 @@
+C:\Users\USUARIO\source\repos\GeoWallE_Fabio_2k3\GeoWallE_Fabio_2k3\bin\Debug\net7.0-windows\GeoWallE_Fabio_2k3.exe
+C:\Users\USUARIO\source\repos\GeoWallE_Fabio_2k3\GeoWallE_Fabio_2k3\bin\Debug\net7.0-windows\GeoWallE_Fabio_2k3.deps.json
+C:\Users\USUARIO\source\repos\GeoWallE_Fabio_2k3\GeoWallE_Fabio_2k3\bin\Debug\net7.0-windows\GeoWallE_Fabio_2k3.runtimeconfig.json
+C:\Users\USUARIO\source\repos\GeoWallE_Fabio_2k3\GeoWallE_Fabio_2k3\bin\Debug\net7.0-windows\GeoWallE_Fabio_2k3.dll
+C:\Users\USUARIO\source\repos\GeoWallE_Fabio_2k3\GeoWallE_Fabio_2k3\bin\Debug\net7.0-windows\GeoWallE_Fabio_2k3.pdb
+C:\Users\USUARIO\source\repos\GeoWallE_Fabio_2k3\GeoWallE_Fabio_2k3\obj\Debug\net7.0-windows\GeoWallE_Fabio_2k3.GeoWallE_2k3.resources
+C:\Users\USUARIO\source\repos\GeoWallE_Fabio_2k3\GeoWallE_Fabio_2k3\obj\Debug\net7.0-windows\GeoWallE_Fabio_2k3.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\GeoWallE_Fabio_2k3\GeoWallE_Fabio_2k3\obj\Debug\net7.0-windows\GeoWallE_Fabio_2k3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\GeoWallE_Fabio_2k3\GeoWallE_Fabio_2k3\obj\Debug\net7.0-windows\GeoWallE_Fabio_2k3.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\GeoWallE_Fabio_2k3\GeoWallE_Fabio_2k3\obj\Debug\net7.0-windows\GeoWallE_Fabio_2k3.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\GeoWallE_Fabio_2k3\GeoWallE_Fabio_2k3\obj\Debug\net7.0-windows\GeoWallE_Fabio_2k3.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\GeoWallE_Fabio_2k3\GeoWallE_Fabio_2k3\obj\Debug\net7.0-windows\GeoWallE_Fabio_2k3.dll
+C:\Users\USUARIO\source\repos\GeoWallE_Fabio_2k3\GeoWallE_Fabio_2k3\obj\Debug\net7.0-windows\refint\GeoWallE_Fabio_2k3.dll
+C:\Users\USUARIO\source\repos\GeoWallE_Fabio_2k3\GeoWallE_Fabio_2k3\obj\Debug\net7.0-windows\GeoWallE_Fabio_2k3.pdb
+C:\Users\USUARIO\source\repos\GeoWallE_Fabio_2k3\GeoWallE_Fabio_2k3\obj\Debug\net7.0-windows\GeoWallE_Fabio_2k3.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\GeoWallE_Fabio_2k3\GeoWallE_Fabio_2k3\obj\Debug\net7.0-windows\ref\GeoWallE_Fabio_2k3.dll
